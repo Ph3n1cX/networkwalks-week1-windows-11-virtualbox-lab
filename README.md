@@ -1,7 +1,7 @@
 # Networkwalks Week 1: Windows 11 VirtualBox Lab
 
 **Author:** Faisol Daud  
-**Program:** Networkwalks Cybersecurity Program · Batch B082  
+**Program:** Networkwalks Cybersecurity Program · Batch B084  
 **Project:** Week 1 Extra Project
 
 ## Overview
