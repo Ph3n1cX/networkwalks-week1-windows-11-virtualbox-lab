@@ -1,7 +1,7 @@
 # Networkwalks Week 1: Windows 11 VirtualBox Lab
 
 **Author:** Faisol Daud  
-**Program:** Networkwalks Cybersecurity Internship · Batch B084  
+**Program:** Networkwalks Cybersecurity Program · Batch B082  
 **Project:** Week 1 Extra Project
 
 ## Overview
@@ -79,15 +79,27 @@ A successful ping indicates that ICMP traffic reached the destination and receiv
 
 ## Evidence screenshots
 
-Screenshots of the successful connectivity tests were included with my project update. The repository evidence section should contain the relevant screenshots, with sensitive information removed before publication.
+The screenshots below document the Windows VM, its network settings, and the connectivity tests.
 
-Recommended evidence files:
+### Windows 11 VM in VirtualBox
 
-- `screenshots/01-windows-11-virtualbox.png` — Windows 11 VM running in VirtualBox.
-- `screenshots/02-windows-network-settings.png` — Windows IPv4 configuration.
-- `screenshots/03-windows-ping-kali.png` — Windows-to-Kali connectivity test.
-- `screenshots/04-windows-ping-internet.png` — Windows outbound connectivity test.
-- `screenshots/05-kali-ping-windows.png` — Kali-to-Windows connectivity test.
+![Windows 11 VM running in VirtualBox](01-windows-11-virtualbox.png)
+
+### Windows network settings
+
+![Windows IPv4 network settings](02-windows-network-settings.png)
+
+### Windows-to-Kali connectivity
+
+![Windows ping test to Kali Linux](03-windows-ping-kali.png)
+
+### Windows outbound connectivity
+
+![Windows ping test to an external IP address](04-windows-ping-internet.png)
+
+### Kali-to-Windows connectivity
+
+![Kali Linux ping test to Windows 11](05-kali-ping-windows.png)
 
 ## Key takeaways
 
@@ -115,4 +127,4 @@ This project documents virtual machine setup and network connectivity verificati
 
 I would like to thank **Sir Waqas Karim (CCIE)** and the **Networkwalks** team for their guidance and support during the cybersecurity program.
 
-*Networkwalks Cybersecurity Internship · Batch B082*
+*Networkwalks Cybersecurity Program · Batch B082*
